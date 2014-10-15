@@ -1,4 +1,4 @@
-all: main
+all: build
 
-main:
+build:
 	g++ -Wall -std=gnu++11 src/main.cpp -o main
