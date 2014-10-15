@@ -259,6 +259,7 @@ int main(int argc, char const *argv[])
       std::cout << (*town_it)->name << " ";
     }
   }
+  std::cout << std::endl;
 
   return 0;
 }
